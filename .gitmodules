@@ -1,0 +1,4 @@
+[submodule "ktsblog/public"]
+	path = ktsblog/public
+	url = https://github.com/KTS-o7/blog.git
+	branch = main

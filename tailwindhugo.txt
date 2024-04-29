@@ -1,0 +1,69 @@
+baseURL = 'https://KTS-o7.github.io/'
+languageCode = 'en-us'
+title = 'KTS Blog'
+author = "Krishnatejaswi S"
+copyright = "Krishnatejaswi S"
+paginate = 3
+theme = "tailwind"
+
+
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  [params.header]
+    logo = "assets/LogoKTS.svg"
+
+  [params.footer]
+    since = 2023
+    poweredby = true
+      
+  [[params.social_media.items]]
+    enabled = true
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/KTS-o7'
+
+  [[params.social_media.items]]
+    enabled = true
+    title = 'LinkedIn'
+    icon = 'brand-linkedin'
+    link = 'https://www.linkedin.com/in/krishnatejaswi-shenthar/'
+
+   [params.giscus]
+    enabled = true
+    repo = "KTS-o7/KTS-o7.github.io"
+    repoID = "R_kgDOLt_ntg"
+    category = "General"
+    categoryID = "DIC_kwDOLt_nts4Ceruy"
+    mapping = "pathname"
+    strict = "0"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "bottom"
+    lang = "en"  
+
+
+
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 0
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about/about"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

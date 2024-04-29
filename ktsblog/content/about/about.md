@@ -31,3 +31,4 @@ My passion for coding extends beyond the classroom. I'm particularly interested 
 If you're interested in my work, have questions, or would like to collaborate on a project, feel free to [**contact me**](https://krishnatejaswi-s.vercel.app/#contact). I'm always open to new connections and opportunities.
 
 Thank you for visiting my About page. I look forward to sharing more of my journey with you!
+## You can also connect me via [Linktree](https://kts-o7.github.io/)

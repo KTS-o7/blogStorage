@@ -2,7 +2,7 @@
 title = 'Problem Boats to Save People'
 date = 2024-05-04T15:00:06+05:30
 draft = false
-series = 'leetcode'
+series = 'Leetcode'
 tags =['two pointers', 'greedy', 'medium', 'leetcode','cpp']
 toc = false
 +++

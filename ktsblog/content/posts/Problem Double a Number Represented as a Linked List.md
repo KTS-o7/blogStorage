@@ -9,7 +9,7 @@ toc = false
 
 # Problem Statement
 
-**Link** - [Problem 2816](https://leetcode.com/problems/double-a-number-represented-as-linked-list/description/)
+**Link** - [Problem 2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/description)
 
 ## Question
 

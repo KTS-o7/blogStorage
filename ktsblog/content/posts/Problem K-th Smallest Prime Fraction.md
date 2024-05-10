@@ -89,8 +89,8 @@ public:
 
 - `Time Complexity` - O(n^2logn)
 - `Space Complexity` - O(n^2)
-  Time complexity of adding a node to the heap is O(logn) and we are adding n*(n-1)/2 nodes to the heap. So, the time complexity is O(n^2logn).
-  Space complexity is O(n^2) because we are storing n*(n-1)/2 pairs in the heap.
+- Time complexity of adding a node to the heap is `O(logn)` and we are adding `n*(n-1)/2` nodes to the heap. So, the time complexity is O(n^2logn).
+- Space complexity is O(n^2) because we are storing `n*(n-1)/2` pairs in the heap.
 
 ## Explanation
 

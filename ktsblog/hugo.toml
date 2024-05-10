@@ -5,14 +5,16 @@ author = "Krishnatejaswi S"
 copyright = "Krishnatejaswi S"
 paginate = 3
 theme = "tailwind"
-
+enableInlineShortcodes = true
+subtitle = "Blog - authored by Krishnatejaswi S"
 
 
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
-
+  keywords = "Leetcode, Linux, Development, Software, AI, ML"
+  subtitle = " Blog authored by Krishnatejaswi S"
   [params.header]
     logo = "assets/LogoKTS.svg"
 
@@ -45,7 +47,7 @@ theme = "tailwind"
     inputPosition = "bottom"
     lang = "en"  
 
-
+  
 
 
 

@@ -1,5 +1,5 @@
 +++
-title = 'Problem K Th Smallest Prime Fraction'
+title = 'Problem K th Smallest Prime Fraction'
 date = 2024-05-10T19:04:08+05:30
 draft = false
 series = 'leetcode'

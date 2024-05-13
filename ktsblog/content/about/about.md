@@ -35,4 +35,3 @@ Thank you for visiting my About page. I look forward to sharing more of my journ
 ## You can also connect me via [Linktree](https://kts-o7.github.io/)
 
 [![Gitroll](https://gitroll.io/api/badges/profiles/v1/uAMeVZ9sfbvMm3UFLanLJ9sLHTuS2)](https://gitroll.io/profile/uAMeVZ9sfbvMm3UFLanLJ9sLHTuS2)
-<a href="https://gitroll.io/profile/uAMeVZ9sfbvMm3UFLanLJ9sLHTuS2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAMeVZ9sfbvMm3UFLanLJ9sLHTuS2" alt="GitRoll Profile Badge"/></a>

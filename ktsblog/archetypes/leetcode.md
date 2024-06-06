@@ -5,6 +5,7 @@ draft = false
 series = 'leetcode'
 tags =[]
 toc = false
+math = false
 +++
 
 # Problem Statement
@@ -48,13 +49,13 @@ placeHolder
 
 ### 1. Intuition
 
-```text
+```markdown
 - Write
 ```
 
 ### 2. Implementation
 
-```text
+```markdown
 - Write
 ```
 

@@ -16,7 +16,10 @@ math = false
 
 ## Example 1
 
-```text
+{{<mermaid>}}
+{{</mermaid>}}
+
+```
 placeHolder
 ```
 
@@ -25,14 +28,15 @@ placeHolder
 {{<mermaid>}}
 {{</mermaid>}}
 
-```text
+```
 placeHolder
 ```
 
 ## Constraints
 
-- Line 1
-- Line 2
+```markdown
+- Write
+```
 
 ## Solution
 

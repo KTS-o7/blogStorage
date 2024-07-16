@@ -46,8 +46,11 @@ placeHolder
 
 ## Complexity Analysis
 
-- `Time Complexity` :
-- `Space Complexity` :
+```markdown
+| Algorithm | Time Complexity | Space Complexity |
+| --------- | --------------- | ---------------- |
+|           |                 |                  |
+```
 
 ## Explanation
 
@@ -62,7 +65,5 @@ placeHolder
 ```markdown
 - Write
 ```
-
----
 
 > FootNote

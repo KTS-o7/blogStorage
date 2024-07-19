@@ -3,7 +3,7 @@ title = 'Problem Lucky Number in a Matrix'
 date = 2024-07-19T21:38:03+05:30
 draft = false
 series = 'leetcode'
-tags =[]
+tags =['matrix','maxi-min','mini-max']
 toc = false
 math = false
 +++

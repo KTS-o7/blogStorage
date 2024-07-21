@@ -3,8 +3,8 @@ title = 'Problem Minimum Falling Path Sum II'
 date = 2024-04-26T12:15:26+05:30
 draft = false
 toc = false
-tags = ['leetcode', 'dp', 'matrix'] 
-series = ""
+series = 'leetcode'
+tags = ['dp','matrix'] 
 +++
 
 # Problem Statement

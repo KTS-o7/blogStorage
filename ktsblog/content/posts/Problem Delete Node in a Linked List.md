@@ -3,7 +3,7 @@ title = 'Problem Delete Node in a Linked List'
 date = 2024-05-05T11:54:45+05:30
 draft = false
 series = 'leetcode'
-tags =['linked list','pointers', 'leetcode','cpp']
+tags =['linked-list','pointers','cpp']
 toc = false
 +++
 

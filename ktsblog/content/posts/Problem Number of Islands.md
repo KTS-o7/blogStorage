@@ -2,8 +2,8 @@
 title = 'Problem Number of Islands'
 date = 2024-04-19T13:00:30+05:30
 draft = false
-series = 'Leetcode'
-tags = ['leetcode', 'cpp','matrix','dfs','array']
+series = 'leetcode'
+tags = ['cpp','matrix','dfs','array']
 toc = false
 +++
 

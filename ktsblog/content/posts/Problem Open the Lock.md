@@ -2,8 +2,8 @@
 title = 'Problem Open the Lock'
 date = 2024-04-22T16:27:12+05:30
 draft = false
-series = 'Leetcode'
-tags = ['leetcode', 'cpp', 'bfs', 'graph']
+series = 'leetcode'
+tags = ['cpp','bfs','graph']
 toc = false
 +++
 

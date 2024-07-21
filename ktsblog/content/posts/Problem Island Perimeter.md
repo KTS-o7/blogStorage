@@ -2,8 +2,8 @@
 title = 'Problem Island Perimeter'
 date = 2024-04-18T20:48:14+05:30
 draft = false
-series = 'Leetcode'
-tags = ['leetcode', 'cpp','matrix', 'array']
+series = 'leetcode'
+tags = ['cpp','matrix','array']
 toc = false
 +++
 

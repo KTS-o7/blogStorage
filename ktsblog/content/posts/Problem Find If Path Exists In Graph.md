@@ -2,8 +2,8 @@
 title = 'Problem Find if Path Exists in Graph'
 date = 2024-04-21T15:42:16+05:30
 draft = false
-series = 'Leetcode'
-tags = ['leetcode', 'cpp', 'graph', 'dfs']
+series = 'leetcode'
+tags = ['cpp','graph','dfs']
 toc = false
 +++
 

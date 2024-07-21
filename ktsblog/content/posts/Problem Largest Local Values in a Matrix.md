@@ -3,7 +3,7 @@ title = 'Problem Largest Local Values in a Matrix'
 date = 2024-05-12T10:58:07+05:30
 draft = false
 series = 'leetcode'
-tags =['matrix','2D array','cpp','vector']
+tags =['matrix','2D-array','cpp','vector']
 toc = false
 math = true
 +++

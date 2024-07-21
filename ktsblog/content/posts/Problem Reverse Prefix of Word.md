@@ -2,8 +2,8 @@
 title = 'Problem Reverse Prefix of Word'
 date = 2024-05-01T20:47:44+05:30
 draft = false
-series = 'Leetcode'
-tags = ['leetcode', 'cpp', 'string']
+series = 'leetcode'
+tags = ['cpp','string']
 toc = false
 +++
 

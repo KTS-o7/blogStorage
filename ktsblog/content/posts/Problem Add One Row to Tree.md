@@ -2,8 +2,8 @@
 title = 'Problem Add One Row to Tree'
 date = 2024-04-16T10:05:52+05:30
 draft = false
-series = 'Leetcode'
-tags = ['leetcode', 'cpp', 'binary tree', 'dfs']
+series = 'leetcode'
+tags = ['cpp','binary-tree','dfs']
 toc = false
 +++
 

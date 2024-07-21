@@ -2,8 +2,8 @@
 title = 'Problem Find All Groups of Farmland'
 date = 2024-04-20T10:52:46+05:30
 draft = false
-series = 'Leetcode'
-tags = ['leetcode', 'cpp', 'matrix', 'dfs']
+series = 'leetcode'
+tags = ['cpp','matrix','dfs']
 toc = false
 +++
 

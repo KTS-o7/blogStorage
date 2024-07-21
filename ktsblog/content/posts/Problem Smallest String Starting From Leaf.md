@@ -2,8 +2,8 @@
 title = 'Problem Smallest String Starting From Leaf'
 date = 2024-04-17T14:56:36+05:30
 draft = false
-series = 'Leetcode'
-tags = ['leetcode', 'cpp', 'binary tree', 'dfs']
+series = 'leetcode'
+tags = ['binary tree', 'dfs']
 toc = false
 +++
 

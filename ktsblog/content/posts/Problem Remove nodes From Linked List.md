@@ -3,7 +3,7 @@ title = 'Problem Remove Nodes From Linked List'
 date = 2024-05-06T15:21:47+05:30
 draft = false
 series = 'leetcode'
-tags =['monotonic stack','linked list','pointers','stack','cpp']
+tags =['monotonic-stack','linked-list','pointers','stack','cpp']
 toc = false
 +++
 

@@ -3,8 +3,8 @@ title = 'Problem Nth Tribonacci Number'
 date = 2024-04-24T13:45:56+05:30
 draft = false
 toc = false
-tags = ['leetcode', 'cpp', 'math', 'dp']
-series = "Leetcode"
+series = 'leetcode'
+tags = ['cpp','math','dp']
 +++
 
 # Problem Statement

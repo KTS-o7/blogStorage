@@ -3,7 +3,7 @@ title = 'Problem Hand of Straights'
 date = 2024-06-06T23:33:06+05:30
 draft = false
 series = 'leetcode'
-tags =[]
+tags =['greedy','hash-map','sorting']
 toc = false
 +++
 

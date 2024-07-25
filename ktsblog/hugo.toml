@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'KTS Blog'
 author = "Krishnatejaswi S"
 copyright = "Krishnatejaswi S"
-paginate = 3
+paginate =4
 theme = "tailwind"
 enableInlineShortcodes = true
 subtitle = "Blog - authored by Krishnatejaswi S"
@@ -16,7 +16,7 @@ subtitle = "Blog - authored by Krishnatejaswi S"
   keywords = "Leetcode, Linux, Development, Software, AI, ML"
   subtitle = " Blog authored by Krishnatejaswi S"
   [params.header]
-    logo = "assets/LogoKTS.svg"
+    logo = "assets/LogoKTS.jpeg"
 
   [params.footer]
     since = 2023

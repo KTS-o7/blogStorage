@@ -53,7 +53,7 @@ We were asked to attend in formals along with hardcopy of resume.
 - Here the interviewer was kind and asked me to introduce myself.
 - He then asked me to write code on paper for `interface` for a `stack` in any language of my choice.
 - He then asked me to write code for `push`, `pop`, `peek` and `isEmpty` functions.
-  -I was able to write code for that. He then asked me to implement a `getMin` function which returns the minimum element in the stack in O(1) time.
+- I was able to write code for that. He then asked me to implement a `getMin` function which returns the minimum element in the stack in O(1) time.
 - This was a question present in **Striver SDE Sheet**. I had done this question before so I was able to solve it.
 - While doing this he asked me to explain the time complexity of the functions I wrote, how polymorphism works in the present code.
 
@@ -63,6 +63,8 @@ We were asked to attend in formals along with hardcopy of resume.
 - He gave me some hints and I was able to write the code for that.
 - The next set of questions were from Operating Systems and Computernetworks.
   He asked me how `Interprocess Communication` works in OS and how `routing` and `subnetting` works in Computer Networks.
+- There were also questions about deadlocks and reader-writer problems.
+- I answered them and illustrated the usage of `semaphores` and `mutex` in solving them.
 
 > I got shortlisted for the next round.
 

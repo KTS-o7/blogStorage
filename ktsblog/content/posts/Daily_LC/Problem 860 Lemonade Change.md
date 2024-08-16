@@ -1,5 +1,5 @@
 +++
-title = 'Problem 860 Lemonadre Change'
+title = 'Problem 860 Lemonade Change'
 date = 2024-08-15T18:20:56+05:30
 draft = false
 series = 'leetcode'

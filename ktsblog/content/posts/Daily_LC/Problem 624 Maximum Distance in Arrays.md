@@ -123,8 +123,6 @@ public:
 
 ### Proof of Correctness for Greedy Approach
 
-### Proof of Correctness for Greedy Approach
-
 #### Assumptions
 
 1. Each array is sorted in non-decreasing order.

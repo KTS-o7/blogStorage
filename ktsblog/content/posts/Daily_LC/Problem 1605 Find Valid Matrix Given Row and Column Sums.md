@@ -2,7 +2,7 @@
 title = 'Problem 1605 Find Valid Matrix Given Row and Column Sums'
 date = 2024-07-21T21:18:57+05:30
 draft = false
-series = 'leetcode-daily'
+series = 'leetcode'
 tags =['matrix','greedy']
 toc = false
 math = false

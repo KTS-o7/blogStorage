@@ -164,4 +164,4 @@ public:
     - Return the `result`.
 ```
 
-> There is a follow up question for this problem, [Problem 3265](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/description/).
+> There is a follow up question for this problem, [Problem 3266](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/description/).

@@ -119,7 +119,6 @@ public:
 > There is also a dynamic programming approach to solve this problem.
 
 ### DP Solution
-
 ```cpp
 class Solution {
 public:

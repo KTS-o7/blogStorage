@@ -32,3 +32,15 @@ weight = 3
 #name = "Github"
 #url = "https://github.com/KTS-o7/"
 #weight = 4
+
+[[main]]
+name = "leetcode_daily"
+title = "Leetcode Daily"
+url = "/posts/daily_lc/"
+weight = 4
+
+[[main]]
+name = "core_subjects"
+title = "Tech"
+url = "/posts/core_points/"
+weight = 5

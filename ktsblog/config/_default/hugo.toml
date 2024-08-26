@@ -6,7 +6,7 @@ baseURL = "https://KTS-o7.github.io/blog/"
 # Site's language code
 languageCode = 'en-us'
 
-title = "KTS Blog"
+title = "The Indian Engineer"
 
 theme = "kayal" # UNCOMMENT THIS LINE
 

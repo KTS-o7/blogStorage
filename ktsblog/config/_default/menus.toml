@@ -13,34 +13,27 @@ name = "posts"
 title = "Posts"
 url = "/posts/"
 weight = 1
-#
-[[main]]
-name = "tags"
-title = "Tags"
-url = "/tags/"
-weight = 2
 
 [[main]]
 name = "about"
 title = "About"
 url = "/about/about/"
-weight = 3
-
-#[[main]]
-#name = "github"
-#pre = "github"
-#name = "Github"
-#url = "https://github.com/KTS-o7/"
-#weight = 4
+weight = 2
 
 [[main]]
 name = "leetcode_daily"
 title = "Leetcode Daily"
-url = "/posts/daily_lc/"
-weight = 4
+url = "/leetcode-potd/"
+weight = 3
 
 [[main]]
 name = "core_subjects"
 title = "Tech"
-url = "/posts/core_points/"
+url = "/core-subjects/"
+weight = 4
+
+[[main]]
+name = "tags"
+title = "Tags"
+url = "/tags/"
 weight = 5

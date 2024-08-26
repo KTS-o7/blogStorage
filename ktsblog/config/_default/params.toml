@@ -122,6 +122,11 @@ name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/krishnatejaswi-shenthar/"
 
+[[social]]
+name = "RSS Feed"
+icon = "rss"
+url = "http://localhost:1313/blog/posts/index.xml"
+
 [giscus]
     enabled = true
     repo = "KTS-o7/KTS-o7.github.io"

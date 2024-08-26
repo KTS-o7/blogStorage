@@ -125,7 +125,7 @@ url = "https://www.linkedin.com/in/krishnatejaswi-shenthar/"
 [[social]]
 name = "RSS Feed"
 icon = "rss"
-url = "http://localhost:1313/blog/posts/index.xml"
+url = "https://kts-o7.github.io/blog/posts/index.xml"
 
 [giscus]
     enabled = true

@@ -47,10 +47,11 @@ Output: [2,6,14,11,7,3,12,8,4,13,9,10,5,1]
 #### NOTE
 
 Reminder:
-PREorder: ROOT|Left|Right
-INorder: Left|ROOT|Right
-POSTorder: Left|Right|ROOT
-In case of an N-ary Tree, POSTorder is: Child1|Child2|...|ChildN|ROOT
+
+- PREorder: ROOT|Left|Right
+- INorder: Left|ROOT|Right
+- POSTorder: Left|Right|ROOT
+- In case of an N-ary Tree, POSTorder is: Child1|Child2|...|ChildN|ROOT
 
 ## Solution
 

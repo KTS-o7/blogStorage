@@ -1,7 +1,7 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
-draft = false
+draft = true
 series = 'leetcode'
 tags =[]
 toc = false
@@ -34,9 +34,7 @@ placeHolder
 
 ## Constraints
 
-```markdown
-- Write
-```
+- write
 
 ## Solution
 

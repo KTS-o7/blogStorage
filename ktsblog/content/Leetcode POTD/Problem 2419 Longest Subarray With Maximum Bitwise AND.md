@@ -4,7 +4,7 @@ date = 2024-09-14T14:57:52+05:30
 draft = false
 series = 'leetcode'
 tags =['math','bit-manipulation','array','range-query']
-toc = false
+toc = true
 math = false
 +++
 

@@ -29,8 +29,8 @@ showHeadingAnchors = true
 enableSearch = true
 
 # Site search engine verification tags.
-# [verification]
-# google = ""
+[verification]
+google = "OsZNXLpHFXPODOXINTTWbpLD8QojjZ5JQv8jeEnKwTo"
 # bing = ""
 # pinterest = ""
 # yandex = ""

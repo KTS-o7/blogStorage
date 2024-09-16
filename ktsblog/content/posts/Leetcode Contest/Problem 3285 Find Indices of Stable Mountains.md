@@ -1,7 +1,7 @@
 +++
 title = 'Problem 3285 Find Indices of Stable Mountains'
 date = 2024-09-15T16:08:07+05:30
-draft = true
+draft = false
 series = 'leetcode'
 tags =['array','matrix','math']
 toc = false

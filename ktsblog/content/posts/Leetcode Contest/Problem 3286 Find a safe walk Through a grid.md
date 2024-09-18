@@ -1,7 +1,7 @@
 +++
 title = 'Problem 3286 Find a Safe Walk Through a Grid'
 date = 2024-09-15T16:15:45+05:30
-draft = false
+draft = true
 series = 'leetcode'
 tags =['queue','bfs','matrix','dp','dynamic-programming']
 toc = false

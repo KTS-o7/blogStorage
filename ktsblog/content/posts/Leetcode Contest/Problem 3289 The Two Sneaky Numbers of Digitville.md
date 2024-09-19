@@ -1,7 +1,7 @@
 +++
 title = 'Problem 3289 the Two Sneaky Numbers of Digitville'
 date = 2024-09-15T19:27:50+05:30
-draft = true
+draft = false
 series = 'leetcode'
 tags =['matrix','math']
 toc = false
@@ -116,5 +116,3 @@ The problem is fairly simple.
 - If the frequency is 2 then push the number in the `result` array.
 - Return the `result` array.
 ```
-
-

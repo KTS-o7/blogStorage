@@ -1,7 +1,7 @@
 +++
 title = 'Problem 3290 Maximum Multiplication Score'
 date = 2024-09-17T11:40:37+05:30
-draft = true
+draft = false
 series = 'leetcode'
 tags =['dp','dynamic-programming','math']
 toc = false

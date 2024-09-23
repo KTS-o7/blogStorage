@@ -1,7 +1,7 @@
 +++
 title = 'Problem 1460 Make Two Arrays Equal by Reversing Subarrays'
 date = 2024-09-19T22:36:08+05:30
-draft = true
+draft = false
 series = 'leetcode'
 tags =['array','counting','hash-table','sorting']
 toc = false

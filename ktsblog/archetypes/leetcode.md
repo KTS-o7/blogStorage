@@ -34,12 +34,12 @@ placeHolder
 
 ## Constraints
 
-- write
+- Input constraints to be written here.
 
 ## Solution
 
 ```cpp
-// Code
+// Solution code to be written here.
 ```
 
 ## Complexity Analysis
@@ -54,14 +54,12 @@ placeHolder
 
 ### 1. Intuition
 
-```markdown
-- Write
-```
+- Intuition and thought process to solve the problem is to be written here.
 
 ### 2. Implementation
 
 ```markdown
-- Write
+- Step by step implementation of the code is to be written here.
 ```
 
 > FootNote

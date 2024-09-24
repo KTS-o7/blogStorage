@@ -1,20 +1,20 @@
-var seachOpnBtn = null;
-var closeBtn = null;
-var searchCntr = null;
-var resultCntr = null;
-var searchBtn = null;
-var searchTxt = null;
-var isSearchOpen = false;
-var isJsonIndexed = false;
-var isResEmpty = true;
-var fuse;
+let seachOpnBtn = null;
+let closeBtn = null;
+let searchCntr = null;
+let resultCntr = null;
+let searchBtn = null;
+let searchTxt = null;
+let isSearchOpen = false;
+let isJsonIndexed = false;
+let isResEmpty = true;
+let fuse;
 
 function fetchJSON(path, callback) {
-  var httpRequest = new XMLHttpRequest();
+  let httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = function () {
     if (httpRequest.readyState === 4) {
       if (httpRequest.status === 200) {
-        var data = JSON.parse(httpRequest.responseText);
+        let data = JSON.parse(httpRequest.responseText);
         if (callback) callback(data);
       }
     }
@@ -24,10 +24,10 @@ function fetchJSON(path, callback) {
 }
 
 function buildIndex() {
-  var baseURL = searchCntr.getAttribute("data-url");
-  baseURL = baseURL.replace(/\/?$/, '/');
+  let baseURL = searchCntr.getAttribute("data-url");
+  baseURL = baseURL.replace(/\/?$/, "/");
   fetchJSON(baseURL + "index.json", function (data) {
-    var options = {
+    let options = {
       shouldSort: true,
       ignoreLocation: true,
       threshold: 0.0,
@@ -69,10 +69,11 @@ function executeQuery(query) {
   let resultsHtml = "";
   if (results.length > 1) {
     results.forEach(function (value, key) {
-      var meta = value.item.section + " | ";
-      meta = meta + value.item.date ? value.item.date + " | ": "";
-      meta = meta + `<span class="srch-link">${value.item.permalink}</span>`
-      resultsHtml = resultsHtml +
+      let meta = value.item.section + " | ";
+      meta = meta + value.item.date ? value.item.date + " | " : "";
+      meta = meta + `<span class="srch-link">${value.item.permalink}</span>`;
+      resultsHtml =
+        resultsHtml +
         `<li><a href="${value.item.permalink}">
           <p class="srch-title">${value.item.title}</p>
           <p class="srch-meta">${meta}</p>
@@ -104,12 +105,12 @@ window.addEventListener("DOMContentLoaded", (event) => {
   };
 
   searchTxt.onkeydown = function (event) {
-    if ((event.key == "Enter") && (!isResEmpty)) {
+    if (event.key == "Enter" && !isResEmpty) {
       // Enter to focus on the first search result
       resultCntr.firstChild.firstElementChild.focus();
       event.preventDefault();
     }
-  }
+  };
 });
 
 document.addEventListener("keydown", function (event) {
@@ -122,19 +123,23 @@ document.addEventListener("keydown", function (event) {
     if (event.key == "Escape") {
       event.preventDefault();
       closeSearch();
-    } else if ((event.key == "ArrowDown") && (!isResEmpty)) {
+    } else if (event.key == "ArrowDown" && !isResEmpty) {
       if (document.activeElement == searchTxt) {
         resultCntr.firstChild.firstElementChild.focus();
-      } else if (document.activeElement == resultCntr.lastChild.firstElementChild) {
+      } else if (
+        document.activeElement == resultCntr.lastChild.firstElementChild
+      ) {
         searchTxt.focus();
       } else {
         document.activeElement.parentElement.nextSibling.firstElementChild.focus();
       }
       event.preventDefault();
-    } else if ((event.key == "ArrowUp") && (!isResEmpty)) {
+    } else if (event.key == "ArrowUp" && !isResEmpty) {
       if (document.activeElement == searchTxt) {
         resultCntr.lastChild.firstElementChild.focus();
-      } else if (document.activeElement == resultCntr.firstChild.firstElementChild) {
+      } else if (
+        document.activeElement == resultCntr.firstChild.firstElementChild
+      ) {
         searchTxt.focus();
       } else {
         document.activeElement.parentElement.previousSibling.firstElementChild.focus();

@@ -7,11 +7,9 @@ site.Config.Services.GoogleAnalytics.ID }} {{- if strings.HasPrefix (lower .)
 ></script>
 <script>
   let doNotTrack = false;
-  if (false) {
-    let dnt =
-      navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
-    doNotTrack = dnt == "1" || dnt == "yes";
-  }
+  let dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+  doNotTrack = dnt == "1" || dnt == "yes";
+
   if (!doNotTrack) {
     window.dataLayer = window.dataLayer || [];
     function gtag() {

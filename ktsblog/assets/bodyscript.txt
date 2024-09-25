@@ -1,0 +1,14 @@
+<script>
+  const siteTheme = "auto";
+  let savedTheme = localStorage.getItem('theme') || siteTheme;
+
+  // Use optional chaining with window.matchMedia
+  if (savedTheme === 'auto' && window.matchMedia?.('(prefers-color-scheme: dark)').matches) {
+    savedTheme = 'dark';
+  }
+
+  if (savedTheme === "dark") {
+    document.body.classList.add('dark');
+    localStorage.setItem('theme', 'dark');
+  }
+</script>

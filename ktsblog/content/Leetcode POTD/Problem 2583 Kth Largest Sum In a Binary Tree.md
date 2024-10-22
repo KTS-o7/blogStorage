@@ -122,7 +122,6 @@ public:
 - So from the question it is clear that we need to traverse the tree level wise.
 - Compute the sum of the nodes at each level and store it in descending order.
 - Then we need to return the `kth` largest sum.
-
 - To make sure that we need to traverse the tree level wise we can use the `BFS` traversal.
 - We can use a `queue` to store the nodes at each level.
 - In each iteration we can compute the sum of the nodes at that level and store it in a `priority_queue` in descending order.

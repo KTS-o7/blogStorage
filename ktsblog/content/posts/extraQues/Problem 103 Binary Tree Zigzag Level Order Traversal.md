@@ -3,7 +3,7 @@ title = 'Problem 103 Binary Tree Zigzag Level Order Traversal'
 date = 2024-07-29T00:31:56+05:30
 draft = false
 series = 'leetcode'
-tags =[]
+tags =['binary-tree','bfs','queue']
 toc = false
 math = false
 +++

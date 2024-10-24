@@ -10,7 +10,7 @@ math = false
 
 # Problem Statement
 
-**Link** - [Problem ](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/)
+**Link** - [Problem 3286](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/)
 
 ## Question
 

@@ -3,14 +3,14 @@ title = 'Problem 1405 Longest Happy String'
 date = 2024-10-23T22:27:57+05:30
 draft = false
 series = 'leetcode'
-tags =[]
+tags =['string','greedy']
 toc = false
 math = false
 +++
 
 # Problem Statement
 
-**Link** - [Problem 1405]()
+**Link** - [Problem 1405](https://leetcode.com/problems/longest-happy-string/description/)
 
 ## Question
 
